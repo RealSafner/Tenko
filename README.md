@@ -4,9 +4,11 @@ The **Tenko** language extension adds support for the Tenko programming language
 
 ## Features
 
-- Syntax highlighting for **Tenko** source code
-- Language configuration for better coding experience
-- Customizable settings for Tenko code
+- **Flexible** and **lightweight** programming language.
+- Syntax highlighting for **Tenko** source code.
+- **Automatic memory management**, with the option for manual memory control.
+- Constantly evolving with new libraries and features being added.
+- Language configuration for a better coding experience.
 
 ## Installation
 
