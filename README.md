@@ -1,3 +1,5 @@
+**(⭐️10 Stars = new update!)**
+
 # Tenko Language
 
 The **Tenko** language extension adds support for the Tenko programming language in **Visual Studio Code**. It includes syntax highlighting and other language-specific features to make writing **Tenko** code easier and more efficient.
